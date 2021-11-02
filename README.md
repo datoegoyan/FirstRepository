@@ -1,2 +1,2 @@
 # FirstRepository
-This is my first GitHub repository, The book lovers web site.
+Hey guys, I don't even know if anyone reads this files but still, Thanks for downloading and don't forget to follow me.
